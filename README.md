@@ -1,4 +1,4 @@
-# Jonh Jack - Personal Portfolio
+# Jonh Jackson - Personal Portfolio
 
 Welcome to John Jack's Personal Portfolio, a simple Single Page Application (SPA) that showcases John Jack's web development skills and provides an interactive platform to learn about various web development components. This project serves as an excellent learning resource for beginners and enthusiasts interested in web development.
 
